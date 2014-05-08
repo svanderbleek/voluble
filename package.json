@@ -1,0 +1,10 @@
+{
+  "name": "voluble-test",
+  "description": "tests for voluble",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browserling": "*",
+    "grunt": "*",
+    "tape": "*"
+  }
+}
